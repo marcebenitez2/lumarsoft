@@ -1,0 +1,40 @@
+a {
+  display: inline-block;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.aTech > a:after {
+  display: block;
+  content: "";
+  width: inherit;
+  border-bottom: solid 3px #0284c7;
+  border-radius: 20px;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+
+.aTech > a:hover:after {
+  transform: scaleX(1);
+}
+
+.animation-pulse {
+  animation: pulser 2s infinite;
+  border-radius: 3px;
+}
+
+@keyframes pulser {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 #0284c7;
+  }
+
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 37px rgba(0, 0, 0, 0);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}

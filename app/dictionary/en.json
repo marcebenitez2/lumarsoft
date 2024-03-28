@@ -1,0 +1,134 @@
+{
+  "Hero": {
+    "title1": "Act now.",
+    "title2": [
+      "Create the future.",
+      "Drive your success.",
+      "Elevate your business.",
+      "Be the difference.",
+      "Make it happen.",
+      "Make it real."
+    ],
+    "subtitle": "Innovation that inspires, solutions that impact.",
+    "button": "Contact Us"
+  },
+  "SecondSkill": {
+    "title1": "Empowering your company",
+    "title2": "towards digital success",
+    "cardService": [
+      {
+        "id": 1,
+        "title": "Custom Software Development",
+        "description": "We offer specialized services in web and desktop application development, using modern and cutting-edge technologies to meet the specific needs of our clients.",
+        "step1Time": "Step 1",
+        "step1": "Design and Architecture",
+        "descriptionStep1": "Detailed analysis of client requirements and designing the application architecture.",
+        "step2Time": "Step 2",
+        "step2": "Development",
+        "descriptionStep2": "Implementation of application logic following the design established in the previous phase. Time to write code.",
+        "step3Time": "Step 3",
+        "step3": "Testing",
+        "descriptionStep3": "Comprehensive testing to validate the proper functioning of the application and ensure it meets the specified requirements.",
+        "step4Time": "Step 4",
+        "step4": "Implementation",
+        "descriptionStep4": "We implement in a production environment, ready for launch."
+        },
+        {
+        "id": 2,
+        "title": "Web Development and E-commerce Management",
+        "description": "Design and development of web pages, along with management, maintenance, and support of online stores and sales channels, using modern and cutting-edge technologies.",
+        "step1Time": "Step 1",
+        "step1": "Design",
+        "descriptionStep1": "Definition of the structure and design of elements on the web page, as well as navigation between different sections.",
+        "step2Time": "Step 2",
+        "step2": "E-commerce Development",
+        "descriptionStep2": "Building web pages or online stores, ensuring they are visually appealing and functional.",
+        "step3Time": "Step 3",
+        "step3": "Testing of Website and Online Store",
+        "descriptionStep3": "Tests are conducted to ensure that the website and e-commerce display and function correctly.",
+        "step4Time": "Step 4",
+        "step4": "Implementation of the Website",
+        "descriptionStep4": "Loading and hosting on a server to be available on the Internet, accessible anytime, anywhere."
+        },
+        {
+        "id": 3,
+        "title": "System Integration and Migration Services",
+        "description": "Integration and migration of existing systems to new platforms or technologies, optimizing their processes and maximizing the value of their investments.",
+        "step1Time": "Step 1",
+        "step1": "Evaluation of Current Technological Infrastructure",
+        "descriptionStep1": "Detailed analysis to identify areas of improvement and integration and migration opportunities.",
+        "step2Time": "Step 2",
+        "step2": "Design and Implementation of Migration Strategies",
+        "descriptionStep2": "Planning and execution of data transfer and configuration of new systems.",
+        "step3Time": "Step 3",
+        "step3": "Integration of Business Systems",
+        "descriptionStep3": "Validation of interoperability and effective communication between different platforms and applications.",
+        "step4Time": "Step 4",
+        "step4": "Data Migration Between Platforms",
+        "descriptionStep4": "Data transfer ensuring the integrity and consistency of information."
+        }
+    ]
+  },
+  "WhyChoose": {
+    "title": "Why us?",
+    "description": "At LumarSoft, we know that choosing the right partner for your software development needs is crucial. Our commitment to excellence and customer satisfaction is unwavering. Here are just a few reasons to choose us:",
+    "reasonCard": [
+      {
+        "title": "Innovation and Experience",
+        "description": "Our team brings a unique combination of solid technical expertise, offering innovative and creative solutions."
+      },
+      {
+        "title": "Personalized Approach",
+        "description": "Every project is unique. We work closely with you to tailor our solutions to your specific needs."
+      },
+      {
+        "title": "Quality and Reliability",
+        "description": "We prioritize quality in everything we do, delivering reliable products that exceed expectations."
+      },
+      {
+        "title": "Commitment to Your Success",
+        "description": "Your success is our priority. We commit to working with you at every stage of the project to ensure you achieve your goals."
+      },
+      {
+        "title": "Continuous Excellence",
+        "description": "We stay updated with the latest technologies and trends, ensuring you receive cutting-edge solutions."
+      },
+      {
+        "title": "Transparency and Honesty",
+        "description": "We believe in transparency and honesty in our business relationships. We'll keep you informed at every step of development."
+      }
+    ]
+  },
+  "Technologies": {
+    "title": "Technologies",
+    "description": "These are some of the technologies we use to develop your projects. your projects."
+  },
+  "About": {
+    "title1": "About Us",
+    "subtitle": "Your Partner in Software Development",
+    "description": "We are a software consultancy specialized in providing personalized and efficient solutions for businesses of all sizes. Our team of development experts is committed to becoming your strategic partner in achieving your technological goals.",
+    "subtitle2": "Our Values",
+    "items": [
+      "Commitment to excellence in every project.",
+      "Transparency and honesty in all our interactions.",
+      "Close collaboration and open communication with our clients.",
+      "Constant innovation and pursuit of creative solutions."
+    ],
+    "subtitle3": "Our Mission",
+    "description2": "At LumarSoft, we are committed to providing high-quality software solutions that drive our clients' success. Our mission is to collaborate closely with each client to understand their needs and deliver innovative and personalized solutions that exceed their expectations. We are dedicated to providing exceptional service, driven by technical excellence and commitment to customer satisfaction."
+  },
+  "Contact": {
+    "title": "Contact us",
+    "subtitle": "Your opportunity for radical change starts here. Send us a message and let us take you to the next level.",
+    "form": {
+      "labelName": "Name",
+      "placeholderName": "Enter your name*",
+      "labelEmail": "Email",
+      "placeholderEmail": "Enter your email*",
+      "labelMessage": "Message",
+      "placeholderMessage": "Write us your requirements in detail.  The more we know about your amazing idea, the better we can guide you and help you.*",
+      "button": "Send"
+    }
+  }
+  
+}
